@@ -10,7 +10,7 @@ env:
   ROM_URL: https://yer.dl.sourceforge.net/project/andyyan-gsi/lineage-18.x/lineage-18.1-20220715-UNOFFICIAL-arm64_bgS.img.xz
   ROM_NAME: Generic
   TZ: Asia/Jakarta
-  MIR: wet
+  MIR: gof
   ZIP_NAME: lineage-18.x/lineage-18.1-20220715-UNOFFICIAL-arm64_bgS.img
   CHAT_ID: ${{ secrets.CHAT_ID }}
   TOKEN: ${{ secrets.TOKEN }}
