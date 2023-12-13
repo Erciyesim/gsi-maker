@@ -11,7 +11,7 @@ env:
   ROM_NAME: Generic
   TZ: Asia/Jakarta
   MIR: wet
-  ZIP_NAME: xiaomi.eu_multi_HMNote8_21.8.25_v12
+  ZIP_NAME: lineage-18.x/lineage-18.1-20220715-UNOFFICIAL-arm64_bgS.img
   CHAT_ID: ${{ secrets.CHAT_ID }}
   TOKEN: ${{ secrets.TOKEN }}
   USER: ${{ secrets.USER }}
